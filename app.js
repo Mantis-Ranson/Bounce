@@ -11,7 +11,6 @@ var morgan       = require('morgan');
 var mongoose     = require('mongoose');
 var bodyParser   = require('body-parser');
 
-var mongoose     = require('mongoose');
 var configDB     = require('./app/config/database.js');
 var configsecret = require('./app/config/secret.js'); 
 
